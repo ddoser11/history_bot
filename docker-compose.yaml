@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  history_bot:
+    image: ghcr.io/ddoser11/history_bot:latest
+    restart: always
+    container_name: history_bot
+    
