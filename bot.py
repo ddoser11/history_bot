@@ -1,3 +1,3 @@
 from aiogram import Bot
 
-mybot = Bot(token='7526984079:AAHMIkxIEf2DKTWlIGPXQwk1pDpb11TGhcs')
+mybot = Bot(token='7841123295:AAE_G61pZSwG2g08IODzg0JJViqmbiyQTXA')
